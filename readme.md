@@ -184,4 +184,27 @@ branch and merged the both branches.
 # git push 
     and it push the code directly to github
 
+- When you clone a repo, you get just main branch connected, rest of the remote branches are not configured.
+# git switch branch_name
+ connects remote branch to local
+# git branch -r
 
+Work | Stage | Local Repo | Remote repo |
+                           <-git fetch-->
+<-----------git pull-------------------->
+
+# git fetch --> gets the info but don't put in my work
+# git pull --> gets info and add it to my work
+
+git pull = git fetch + git merge
+# git pull origin main (changes will be made to main)
+
+- Github Features on websites like
+    -Adding Collaboratives
+    -Readme file
+    -Markdown format
+    -Adding Gists
+    -Code Spaces
+    -Dev container
+
+# git clone <url>
