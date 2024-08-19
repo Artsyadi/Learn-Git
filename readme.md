@@ -167,7 +167,7 @@ branch and merged the both branches.
 
 - Setup SSH keys to connect with Github, Github uses SSH to allow you to push code. 
   Passoword based code push is not allowed.
-  Check Instructions for your OS on github website, as that's beat & updated resourse.
+  Check Instructions for your OS on github website, as that's best & updated resourse.
 
 # git remote -v
 # git remote add name url
